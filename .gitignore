@@ -1,0 +1,7 @@
+.idea
+.venv
+images
+classes.txt
+yolov4-custom.cfg
+yolov4-custom_1000.weights
+yolov4-custom_last.weights
